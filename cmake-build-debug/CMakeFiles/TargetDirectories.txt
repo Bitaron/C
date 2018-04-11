@@ -1,0 +1,3 @@
+/cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug/CMakeFiles/main.c.dir

@@ -1,0 +1,36 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/cygwin64/bin/gccmakedep" "cmTC_8aee8/fast"
+gcc: error: cmTC_8aee8/fast: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin'
+Unable to find the executable at any of:
+  /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/cmTC_8aee8.exe
+  /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/Debug/cmTC_8aee8.exe
+  /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/Development/cmTC_8aee8.exe
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/cygwin64/bin/gccmakedep" "cmTC_a844e/fast"
+gcc: error: cmTC_a844e/fast: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/feature_tests.bin'
+Unable to find the executable at any of:
+  /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/cmTC_a844e.exe
+  /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/Debug/cmTC_a844e.exe
+  /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug-cygwin/CMakeFiles/CMakeTmp/Development/cmTC_a844e.exe
+
+
