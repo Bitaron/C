@@ -1,5 +1,5 @@
-#include "CppUTest/TestHarness.h"
-#include "CppUTest/CommandLineTestRunner.h"
+#include "unitTestLibrary/cppUtest/include/CppUTest/TestHarness_c.h"
+#include "unitTestLibrary/cppUtest/include/CppUTest/CommandLineTestRunner.h"
 
 
 
