@@ -11,61 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e63e40c8-0817-425f-9671-a2ed3841463a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MakefileWorker.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/cpputest_build/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/CodeMemoryReportFormatter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/GMock.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/GTest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/GTestConvertor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/IEEE754ExceptionsPlugin.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MemoryReportAllocator.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MemoryReportFormatter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MemoryReporterPlugin.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockActualCall.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockCheckedActualCall.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockCheckedExpectedCall.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockExpectedCall.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockExpectedCallsList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockFailure.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockNamedValue.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockSupport.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockSupportPlugin.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/MockSupport_c.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTestExt/OrderedTest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/Platforms/c2000/stdint.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/CommandLineArguments.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/CommandLineArguments.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/CommandLineTestRunner.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/CommandLineTestRunner.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/CppUTestConfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/CppUTestConfig.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/CppUTestGeneratedConfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/CppUTestGeneratedConfig.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/JUnitTestOutput.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/JUnitTestOutput.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/MemoryLeakDetector.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/MemoryLeakDetector.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/MemoryLeakDetectorMallocMacros.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/MemoryLeakDetectorMallocMacros.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/MemoryLeakDetectorNewMacros.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/MemoryLeakDetectorNewMacros.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/MemoryLeakWarningPlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/MemoryLeakWarningPlugin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/PlatformSpecificFunctions.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/PlatformSpecificFunctions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/PlatformSpecificFunctions_c.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/PlatformSpecificFunctions_c.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/SimpleMutex.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/SimpleMutex.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/SimpleString.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/SimpleString.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/StandardCLibrary.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/StandardCLibrary.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TeamCityTestOutput.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TeamCityTestOutput.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestFailure.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestFailure.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestFilter.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestFilter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestHarness.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestHarness.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestHarness_c.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestHarness_c.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestMemoryAllocator.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestMemoryAllocator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestOutput.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestOutput.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestPlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestPlugin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestRegistry.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestRegistry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestResult.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestResult.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/TestTestingFixture.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/TestTestingFixture.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/Utest.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/Utest.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CppUTest/UtestMacros.h" beforeDir="false" afterPath="$PROJECT_DIR$/unitTestLibrary/cppUtest/include/CppUTest/UtestMacros.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/demoTest.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="e63e40c8-0817-425f-9671-a2ed3841463a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug-cygwin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,7 +118,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -275,12 +221,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523419679363</updated>
       <workItem from="1523419682750" duration="8689000" />
-      <workItem from="1523496502806" duration="3490000" />
+      <workItem from="1523496502806" duration="4199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12179000" />
+    <option name="totallyTimeSpent" value="12888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
