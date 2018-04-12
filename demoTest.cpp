@@ -1,6 +1,6 @@
 #include "unitTestLibrary/cppUtest/include/CppUTest/TestHarness_c.h"
 #include "unitTestLibrary/cppUtest/include/CppUTest/CommandLineTestRunner.h"
-
+#include "add.c"
 
 
 TEST_GROUP(FirstTestGroup)
@@ -9,10 +9,12 @@ TEST_GROUP(FirstTestGroup)
 
 TEST(FirstTestGroup, FirstTest)
 {
-    FAIL("Fail me!");
+ int sum = add_custom(2, 3);
+ CHECK_EQUAL(6, sum);
+   // FAIL("Fail me heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeelp!");
 }
 
-int main(int ac, char** av)
+/**int main(int ac, char** av)
 {
     return CommandLineTestRunner::RunAllTests(ac, av);
-}
+}*/

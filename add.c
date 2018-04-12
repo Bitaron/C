@@ -1,3 +1,3 @@
-int add(int a, int b) {
+int add_custom(int a, int b) {
     return a + b;
 }

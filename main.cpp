@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "add.c"
+#include "unitTestLibrary/cppUtest/include/CppUTest/CommandLineTestRunner.h"
 
 /*
  * TODO:
@@ -10,10 +10,10 @@
  *  5. A make file that will run all test after specific time period.
  */
 
-int main() {
+int main(int ac, char** av) {
     printf("Hello, World!\n");
-    int sum = add(2, 3);
-    printf("%d", sum);
-    return 0;
-    //return CommandLineTestRunner::RunAllTests(ac, av);
+   // int sum = add(2, 3);
+   // printf("%d", sum);
+    //return 0;
+    return CommandLineTestRunner::RunAllTests(ac, av);
 }
