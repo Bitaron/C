@@ -1,1 +1,0 @@
-C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/initial_setUP.dir/main.c.o CMakeFiles/initial_setUP.dir/add.c.o  -o initial_setUP.exe -Wl,--out-implib,libinitial_setUP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

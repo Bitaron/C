@@ -10,11 +10,5 @@ TEST_GROUP(FirstTestGroup)
 TEST(FirstTestGroup, FirstTest)
 {
  int sum = add_custom(2, 3);
- CHECK_EQUAL(6, sum);
-   // FAIL("Fail me heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeelp!");
+ CHECK_EQUAL(5, sum);
 }
-
-/**int main(int ac, char** av)
-{
-    return CommandLineTestRunner::RunAllTests(ac, av);
-}*/

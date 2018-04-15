@@ -1,4 +1,0 @@
-C:\Users\USER\.CLion2018.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/cygwin64/bin/gccmakedep -DCMAKE_C_COMPILER=C:/cygwin64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/cygwin64/bin/g++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP
--- Configuring done
--- Generating done
--- Build files have been written to: /cygdrive/e/projects/code_in_embeded_tdd_c/initial_setUP/cmake-build-debug

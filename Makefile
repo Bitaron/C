@@ -1,4 +1,4 @@
-PROJECT_DIR=/home/munim/Pictures/rony_temp/C
+PROJECT_DIR=/home/user/Music/projects/C
 SRC_DIR=$(PROJECT_DIR)
 TEST_DIR=$(PROJECT_DIR)
 # specify where the source code and includes are located
@@ -12,7 +12,7 @@ TEST_SRC_DIRS = $(TEST_DIR)
 TEST_TARGET=example
  
 # where the cpputest library is located
-CPPUTEST_HOME=/home/munim/Pictures/cpputest-3.8/cpputest_build
+CPPUTEST_HOME=/home/user/Music/projects/C/unitTestLibrary/cppUtest/cpputest_build
  
 # run MakefileWorker.mk with the variables defined here
 include MakefileWorker.mk
