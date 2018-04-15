@@ -1,0 +1,5 @@
+lib/
+objs/
+unitTestLibrary/cppUtest/cpputest_build/
+.idea/
+.git/
